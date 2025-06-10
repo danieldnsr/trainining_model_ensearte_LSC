@@ -23,6 +23,7 @@ nosetests.xml
 # datasets
 dataset/
 raw_Dataset/
+data_real_scenario
 
 # results
 results/
